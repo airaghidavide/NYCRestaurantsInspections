@@ -1,0 +1,33 @@
+id_inspection_type,inspection_type
+9,Cycle Inspection / Initial Inspection
+10,Cycle Inspection / Re-inspection
+13,Inter-Agency Task Force / Initial Inspection
+19,Pre-permit (Operational) / Initial Inspection
+20,Pre-permit (Operational) / Re-inspection
+1,Administrative Miscellaneous / Initial Inspection
+2,Administrative Miscellaneous / Re-inspection
+15,Pre-permit (Non-operational) / Initial Inspection
+21,Pre-permit (Operational) / Reopening Inspection
+24,Smoke-Free Air Act / Initial Inspection
+11,Cycle Inspection / Reopening Inspection
+7,Calorie Posting / Re-inspection
+6,Calorie Posting / Initial Inspection
+18,Pre-permit (Operational) / Compliance Inspection
+29,Trans Fat / Initial Inspection
+27,To be inspectioned
+26,Smoke-Free Air Act / Re-inspection
+0,Administrative Miscellaneous / Compliance Inspection
+22,Pre-permit (Operational) / Second Compliance Inspection
+3,Administrative Miscellaneous / Reopening Inspection
+30,Trans Fat / Re-inspection
+16,Pre-permit (Non-operational) / Re-inspection
+8,Cycle Inspection / Compliance Inspection
+14,Pre-permit (Non-operational) / Compliance Inspection
+23,Smoke-Free Air Act / Compliance Inspection
+25,Smoke-Free Air Act / Limited Inspection
+28,Trans Fat / Compliance Inspection
+5,Calorie Posting / Compliance Inspection
+12,Cycle Inspection / Second Compliance Inspection
+4,Administrative Miscellaneous / Second Compliance Inspection
+17,Pre-permit (Non-operational) / Second Compliance Inspection
+31,Trans Fat / Second Compliance Inspection
