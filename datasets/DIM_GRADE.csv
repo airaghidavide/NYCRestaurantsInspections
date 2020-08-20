@@ -1,0 +1,9 @@
+id_grade,grade,grade_description
+5,N/A,Not Applicable
+0,A,A
+1,B,B
+7,Z,Grade Pending
+2,C,C
+6,P,Grade Pending issued on re-opening following an initial inspection that resulted in a closure
+4,N,Not Yet Graded
+3,G,G

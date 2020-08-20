@@ -1,0 +1,4 @@
+id_critical_flag,critical_flag,critical_flag_description
+2,Y,Critical
+0,N,Not Critical
+1,N/A,Not Applicable
